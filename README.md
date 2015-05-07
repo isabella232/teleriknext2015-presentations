@@ -30,14 +30,14 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
 * Getting Started with Angular 2 by Victor Savkin
     * [Keynote](slides/Angular2.key) (Keynote)
     * [PDF](slides/Angular2.pdf)
-* Building Mobile App with Visual Studio by Michael Crump
-    * [PowerPoint](slides/TelerikNEXT-Mobile-Apps-With-VS.pptx)
 * NativeScript Extensibility by Sebastian Witalec
     * [PowerPoint](slides/NS_Extensibility.pptx)
 * AngularJS and Kendo UI by Jeremy Likness
     * [PowerPoint](slides/Kendo UI and Angular - Likness.pptx)
 * AppBuilder in 45 Minutes (PowerPoint) by Jen Looper
     * [PowerPoint](slides/AppBuilder-NEXT.pptx)
+* Building Mobile App with Visual Studio by Michael Crump
+    * [PowerPoint](slides/TelerikNEXT-Mobile-Apps-With-VS.pptx)
 * There's a Cordova Plugin for that! by Eddy Verbruggen
     * [Slides.com](http://slides.com/eddyverbruggen/next#/)
 * No Kidding, Real World Tester/Developer Collaboration by Jim Holmes
@@ -69,6 +69,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
 * IoT and the Telerik Platform by Brandon Satrom, Jen Looper, Michael Crump
     * AppBuilder and Beacons
         * [PowerPoint](slides/Beacons-NEXT.pptx)
+* Debugging with Fiddler by Eric Lawrence
+    * [PowerPoint](Debugging with Fiddler.pptx)
 * Modern MVC and Front-End Development with Telerik Sitefinity by Bilyana Ivanova
     * [PowerPoint](slides/TelerikNEXT_MVC.pptx)
 * Advanced Kendo UI by Burke Holland
