@@ -9,12 +9,18 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
 * Smart Design for Smartphones by Theresa Neil
     * [Part One](slides/Telerik_Smart_Design_workshop_part1.pdf) (PDF)
     * [Part Two](slides/Telerik_Smart_Design_workshop_part2.pdf) (PDF)
+* Modern .NET Apps! by Sam Basu, Michael Crump
+    * [Part One](slides/Modern .NET Apps.pptx) (PowerPoint)
+    * [Part Two](https://speakerdeck.com/mbcrump/modern-net-apps-michael) (SpeakerDeck)
+    * [Instructions](https://bit.ly/ModernAppsWS) (Gist)
 * Responsive Apps With Telerik DevCraft by Carl Bergenhem
     * [PowerPoint](slides/teleriknext-rwd-in-devcraft.pptx)
     * [Samples](samples/TelerikNEXT-RWD-workshop)
 
 ##Day One
 
+* Kendo UI Building Blocks by Cody Lindley
+    * [Slides.com](http://slides.com/telerikdevrel/kendoui-building-blocks#/)
 * CRUD with ASP.NET MVC, Web API, EF and Kendo UI by Jeremy Likness
     * [PowerPoint](slides/Kendo CRUD - Likness.pptx)
 * A Lap Around NativeScript by TJ VanToll
@@ -25,7 +31,9 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [Keynote](slides/Angular2.key) (Keynote)
     * [PDF](slides/Angular2.pdf)
 * Building Mobile App with Visual Studio by Michael Crump
-    * [Powerpoint](slides/TelerikNEXT-Mobile-Apps-With-VS.pptx)
+    * [PowerPoint](slides/TelerikNEXT-Mobile-Apps-With-VS.pptx)
+* NativeScript Extensibility by Sebastian Witalec
+    * [PowerPoint](slides/NS_Extensibility.pptx)
 * AngularJS and Kendo UI by Jeremy Likness
     * [PowerPoint](slides/Kendo UI and Angular - Likness.pptx)
 * AppBuilder in 45 Minutes (PowerPoint) by Jen Looper
@@ -63,5 +71,3 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [Slides.com](http://slides.com/telerikdevrel/advanced-kendo-ui#/)
 * Building Amroo with NativeScript by Miroslav Valchev
     * [PowerPoint](slides/BuildingAmroo.pptx)
-* Kendo UI Mobile: What It Can And Can’t Do For You by Cody Lindley
-    * [Slides.com](http://slides.com/telerikdevrel/kendo-ui-mobile-next#/)
