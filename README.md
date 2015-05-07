@@ -43,6 +43,10 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
 * No Kidding, Real World Tester/Developer Collaboration by Jim Holmes
     * [Keynote](slides/TesterDevCollaboration.key)
     * [PDF](slides/TesterDevCollaboration.pdf)
+* ASP.NET 5 with Telerik UI! by Sam Basu, Ed Charbeneau
+    * [PowerPoint](slides/ASPdotNET5.pptx)
+    * [Telerik UI for ASP.NET Ajax Demos](http://demos.telerik.com/aspnet-ajax/)
+    * [Telerik UI for ASP.NET MVC Demos](http://demos.telerik.com/aspnet-mvc/)
 
 ##Day Two
 
@@ -69,6 +73,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [PowerPoint](slides/TelerikNEXT_MVC.pptx)
 * Advanced Kendo UI by Burke Holland
     * [Slides.com](http://slides.com/telerikdevrel/advanced-kendo-ui#/)
+* Telerik Native Mobile UI for iOS And Android by Mehfuz Hossain
+    * [PowerPoint](slides/TelerikNEXT_PPT_Native-iOS-Android.pptx)
 * Building Amroo with NativeScript by Miroslav Valchev
     * [PowerPoint](slides/BuildingAmroo.pptx)
 * Kendo UI Mobile: What It Can And Can’t Do For You - Cody Lindley
