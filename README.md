@@ -25,6 +25,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [PowerPoint](slides/Kendo CRUD - Likness.pptx)
 * A Lap Around NativeScript by TJ VanToll
     * [PDF](slides/A-Lap-Around-NativeScript.pdf)
+* Introduction to React.js by Christophe Coenraets
+    * [Coenraets.org](http://coenraets.org/present/react/#0)
 * Building Touch Apps with UI for WPF by Michael Crump
     * [PowerPoint](slides/TelerikNEXT-build-touch-apps-with-wpf.pptx)
 * Getting Started with Angular 2 by Victor Savkin
