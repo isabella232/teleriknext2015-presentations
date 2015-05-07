@@ -63,3 +63,5 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [Slides.com](http://slides.com/telerikdevrel/advanced-kendo-ui#/)
 * Building Amroo with NativeScript by Miroslav Valchev
     * [PowerPoint](slides/BuildingAmroo.pptx)
+* Kendo UI Mobile: What It Can And Can’t Do For You by Cody Lindley
+    * [Slides.com](http://slides.com/telerikdevrel/kendo-ui-mobile-next#/)
