@@ -32,6 +32,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
 * Getting Started with Angular 2 by Victor Savkin
     * [Keynote](slides/Angular2.key) (Keynote)
     * [PDF](slides/Angular2.pdf)
+* Getting Started with ScreenBuilder - Rob Lauer
+    * [PowerPoint](slides/Screenbuilder.pptx)
 * NativeScript Extensibility by Sebastian Witalec
     * [PowerPoint](slides/NS_Extensibility.pptx)
 * AngularJS and Kendo UI by Jeremy Likness
@@ -46,9 +48,11 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [Keynote](slides/TesterDevCollaboration.key)
     * [PDF](slides/TesterDevCollaboration.pdf)
 * ASP.NET 5 with Telerik UI! by Sam Basu, Ed Charbeneau
-    * [PowerPoint](slides/ASPdotNET5.pptx)
+    * [Sam's PowerPoint](slides/ASPdotNET5.pptx)
+    * [Ed's SlideShare](http://www.slideshare.net/edcharbeneauii/telerik-next-aspajax)
     * [Telerik UI for ASP.NET Ajax Demos](http://demos.telerik.com/aspnet-ajax/)
     * [Telerik UI for ASP.NET MVC Demos](http://demos.telerik.com/aspnet-mvc/)
+    * [Telerik ASP AJAX Q1 Release demos - GitHub](https://github.com/EdCharbeneau/Q1Release)
 
 ##Day Two
 
@@ -66,6 +70,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [PowerPoint](slides/analytics.pptx)
 * Zero To Hipster with the M.I.K.E. Stack Jen Looper, Charlie Key
     * [PowerPoint](slides/MIKE-NEXT.pptx)
+* Building Offline Ready Mobile Apps - Hristo Borisov
+    * [PowerPoint](slides/Building Offline Ready Mobile Apps.pptx)
 * Cross-Channel Data Integration with Digital Experience Cloud by Seth Cleaver, Radoslav Georgiev
     * [PowerPoint](slides/DataIntegration.PPTX)
 * IoT and the Telerik Platform by Brandon Satrom, Jen Looper, Michael Crump
@@ -73,6 +79,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
         * [PowerPoint](slides/Beacons-NEXT.pptx)
 * Debugging with Fiddler by Eric Lawrence
     * [PowerPoint](Debugging with Fiddler.pptx)
+* Performance Tuning Your Mobile Web Apps - Dave Arel
+    * [PDF](slides/HTML5 Mobile Performance Tuning.pdf)
 * Modern MVC and Front-End Development with Telerik Sitefinity by Bilyana Ivanova
     * [PowerPoint](slides/TelerikNEXT_MVC.pptx)
 * Advanced Kendo UI by Burke Holland
