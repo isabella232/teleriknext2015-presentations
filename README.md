@@ -34,6 +34,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [PDF](slides/Angular2.pdf)
 * Getting Started with ScreenBuilder - Rob Lauer
     * [PowerPoint](slides/Screenbuilder.pptx)
+* A Lap Around Telerik Reporting - John Bristowe
+    * [PowerPoint](slides/A Lap Around Telerik Reporting.pptx)
 * NativeScript Extensibility by Sebastian Witalec
     * [PowerPoint](slides/NS_Extensibility.pptx)
 * AngularJS and Kendo UI by Jeremy Likness
@@ -75,7 +77,9 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
 * Cross-Channel Data Integration with Digital Experience Cloud by Seth Cleaver, Radoslav Georgiev
     * [PowerPoint](slides/DataIntegration.PPTX)
 * IoT and the Telerik Platform by Brandon Satrom, Jen Looper, Michael Crump
-    * AppBuilder and Beacons
+    * Part 1 (Brandon Satrom)
+        * [PowerPoint](slides/IoTPlatform-NEXT.pptx)
+    * AppBuilder and Beacons (Jen Looper)
         * [PowerPoint](slides/Beacons-NEXT.pptx)
 * Debugging with Fiddler by Eric Lawrence
     * [PowerPoint](Debugging with Fiddler.pptx)
@@ -85,6 +89,9 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [PowerPoint](slides/TelerikNEXT_MVC.pptx)
 * Advanced Kendo UI by Burke Holland
     * [Slides.com](http://slides.com/telerikdevrel/advanced-kendo-ui#/)
+* Data is Beautiful with Kendo UI DataViz - John Bristowe
+    * [PowerPoint](slides/Data is Beautiful with Kendo UI DataViz.pptx)
+    * [Keynote](slides/Data is Beautiful with Kendo UI DataViz.key)
 * Telerik Native Mobile UI for iOS And Android by Mehfuz Hossain
     * [PowerPoint](slides/TelerikNEXT_PPT_Native-iOS-Android.pptx)
 * Building Amroo with NativeScript by Miroslav Valchev
