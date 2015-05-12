@@ -44,6 +44,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [PowerPoint](slides/AppBuilder-NEXT.pptx)
 * Building Mobile App with Visual Studio by Michael Crump
     * [PowerPoint](slides/TelerikNEXT-Mobile-Apps-With-VS.pptx)
+* JavaScript Beyond the Basics - Christophe Coenraets
+    * [Coenraets.org](http://coenraets.org/present/es6/#0)
 * There's a Cordova Plugin for that! by Eddy Verbruggen
     * [Slides.com](http://slides.com/eddyverbruggen/next#/)
 * No Kidding, Real World Tester/Developer Collaboration by Jim Holmes
