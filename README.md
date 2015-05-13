@@ -7,8 +7,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
 * NativeScript Deep Dive by TJ VanToll, Clark Sell, Sebastian Witalec
     * [GitHub Repository](https://github.com/NativeScript/NativeScript-NEXT-Workshop)
 * Smart Design for Smartphones by Theresa Neil
-    * [Part One](slides/Telerik_Smart_Design_workshop_part1.pdf) (PDF)
-    * [Part Two](slides/Telerik_Smart_Design_workshop_part2.pdf) (PDF)
+    * [Part One](https://github.com/telerik/teleriknext2015-presentations/raw/master/slides/Telerik_Smart_Design_workshop_part1.pdf) (PDF)
+    * [Part Two](https://github.com/telerik/teleriknext2015-presentations/raw/master/slides/Telerik_Smart_Design_workshop_part2.pdf) (PDF)
 * Modern .NET Apps! by Sam Basu, Michael Crump
     * [Part One](slides/Modern .NET Apps.pptx) (PowerPoint)
     * [Part Two](https://speakerdeck.com/mbcrump/modern-net-apps-michael) (SpeakerDeck)
