@@ -23,6 +23,8 @@ Thanks to all who attended [TelerikNEXT](http://teleriknext.com) in Boston on Ma
     * [Slides.com](http://slides.com/telerikdevrel/kendoui-building-blocks#/)
 * CRUD with ASP.NET MVC, Web API, EF and Kendo UI by Jeremy Likness
     * [PowerPoint](slides/Kendo CRUD - Likness.pptx)
+* Continuous Delivery and Telerik Sitefinity - Christopher Woodward, Radoslav Georgiev
+    * [PowerPoint](slides/Continuous Delivery and Telerik Sitefinity.pptx)
 * A Lap Around NativeScript by TJ VanToll
     * [PDF](slides/A-Lap-Around-NativeScript.pdf)
 * Introduction to React.js by Christophe Coenraets
